@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HumanResourcesApi", "HumanResourcesApi.csproj", "{B4B30753-E374-487D-8F29-73A6FFB63AA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HumanResourcesApp", "..\HumanResourcesApp\HumanResourcesApp.csproj", "{7B73A790-A7E0-48AC-907C-646CC93827B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B30753-E374-487D-8F29-73A6FFB63AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B30753-E374-487D-8F29-73A6FFB63AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B30753-E374-487D-8F29-73A6FFB63AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B30753-E374-487D-8F29-73A6FFB63AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B73A790-A7E0-48AC-907C-646CC93827B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B73A790-A7E0-48AC-907C-646CC93827B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B73A790-A7E0-48AC-907C-646CC93827B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B73A790-A7E0-48AC-907C-646CC93827B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133CBACE-8662-4F86-92B7-29342251B167}
+	EndGlobalSection
+EndGlobal
